@@ -12,11 +12,17 @@ body {
   font-size: 36pt:
   text-decoration : none;
 }
+.solid {
+  font-size: 6px;
+  border-style: solid;
+  border-width: 50pt;
+  border-color: #2ee;
+}
 .content{
   margin-left: 40px;
 }
 h1, h2 {
-  font-family: 'Arial';
+  font-family: 'Times';
 }
 .date{
   color: #888;
